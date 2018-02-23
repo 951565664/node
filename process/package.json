@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "version": "1.0.7",
+  "entry": {
+    "index": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node writeCommitM "
+  },
+  "engines": {
+    "install-node": "6.11.1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
